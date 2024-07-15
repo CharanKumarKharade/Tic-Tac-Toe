@@ -39,6 +39,7 @@ boxes.forEach((box) => {
   });
 });
 const diasble = () => {
+  //disable
   for (box of boxes) {
     box.disabled = true;
   }

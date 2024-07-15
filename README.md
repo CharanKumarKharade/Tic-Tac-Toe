@@ -1,1 +1,1 @@
-Testing my Javascript skills using a sample game called Tic-Tac-Toe
+This is a sample tic-tac-toe game to play around javascript basics
